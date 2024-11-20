@@ -11,10 +11,10 @@ SFT, RM, PPO 데이터를 활용한 QA Model fine-tuning
 
 ## 기술 스택
 
-| Python | NLP |  Pytorch   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   <img src = "https://github.com/user-attachments/assets/aebaf8b0-59c5-48cd-8847-bd7f65d22285" width = "150"
-    |   ![ts]    | ![react] | ![node] |
+| Python | NLP |  Pytorch   |
+| :--------: | :--------: | :------: |
+|   <img src="https://github.com/user-attachments/assets/aebaf8b0-59c5-48cd-8847-bd7f65d22285" width="100">
+    |  <img src="https://github.com/user-attachments/assets/5fdad6b1-a47f-4a43-ae6a-e3ee2bd6d714" alt="NLP" width="100">    | <img src="https://github.com/user-attachments/assets/cbb5b984-bd1f-41e6-b122-e817bcf22273" alt="Pytorch" width="100"> |
 
 <br>
 
