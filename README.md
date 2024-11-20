@@ -6,17 +6,15 @@
 SFT, RM, PPO 데이터를 활용한 QA Model fine-tuning
 </p>
 
-<p align="center">
-GIF Images
-</p>
 
 <br>
 
 ## 기술 스택
 
-| JavaScript | TypeScript |  React   |  Node   |
+| Python | NLP |  Pytorch   |  Node   |
 | :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+|   ![image](https://github.com/user-attachments/assets/aebaf8b0-59c5-48cd-8847-bd7f65d22285)
+    |   ![ts]    | ![react] | ![node] |
 
 <br>
 
