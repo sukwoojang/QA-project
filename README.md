@@ -1,19 +1,9 @@
 # QA-project
 
-# 프로젝트 이름
-
-<p align="center">
-  <br>
-  <img src="./images/common/logo-sample.jpeg">
-  <br>
-</p>
-
-목차
-
 ## 프로젝트 소개
 
 <p align="justify">
-프로젝트 개요/동기
+SFT, RM, PPO 데이터를 활용한 QA Model fine-tuning
 </p>
 
 <p align="center">
