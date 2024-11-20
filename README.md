@@ -10,9 +10,10 @@ SFT, RM, PPO 데이터를 활용한 QA Model fine-tuning
 ## 팀원 및 팀 소개
 | 임승수 | 김범준 | 홍승표 | 장석우 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/b6134ff4-b85f-43a6-8e5e-33b10ca49bfe" alt="임승수" width="150"> | <img src="https://github.com/user-attachments/assets/f3b1262f-ab0a-4c47-bdfe-bfca764fb286" alt="김범준" width="150"> | <img src="https://github.com/user-attachments/assets/b6134ff4-b85f-43a6-8e5e-33b10ca49bfe" alt="홍승표" width="150"> | <img src= "https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="장석우" width="150"> |
+| <img src="https://github.com/user-attachments/assets/b6134ff4-b85f-43a6-8e5e-33b10ca49bfe" alt="임승수" width="150"> | <img src="https://github.com/user-attachments/assets/fa1465cb-d897-418a-989a-9a80b40ee015" alt="김범준" width="150"> | <img src="https://github.com/user-attachments/assets/4edf0899-e4b8-47b2-83fd-032960448613" alt="홍승표" width="150"> | <img src= "https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="장석우" width="150"> |
 | PL | AI Dev | AI Dev | AI Dev |
-| [GitHub](https://github.com/sslim92) | [GitHub](https://github.com/bj730098) | [GitHub](https://github.com/tmdvy9538) | [GitHub](https://github.com/sukwoojang) |
+| [GitHub](https://github.com/sslim92) | [GitHub](https://github.com/bj730098) | [GitHub](https://github.com/tmdvy9538) | [GitHub](https://github.com/sukwoojang) | 
+|프로젝트 기획, QA 모델 개발 | PPO알고리즘 개발 | 데이터 수집 및 전처리 | RM모델 개발 |
 
 <br>
 
