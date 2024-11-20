@@ -5,7 +5,14 @@
 <p align="justify">
 SFT, RM, PPO 데이터를 활용한 QA Model fine-tuning
 </p>
+<br>
 
+## 팀원 및 팀 소개
+| 임승수 | 김범준 | 홍승표 | 장석우 |
+|:------:|:------:|:------:|:------:|
+| <img src="https://github.com/user-attachments/assets/b6134ff4-b85f-43a6-8e5e-33b10ca49bfe" alt="임승수" width="150"> | <img src="https://github.com/user-attachments/assets/f3b1262f-ab0a-4c47-bdfe-bfca764fb286" alt="김범준" width="150"> | <img src="https://github.com/user-attachments/assets/b6134ff4-b85f-43a6-8e5e-33b10ca49bfe" alt="홍승표" width="150"> | <img src= "https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="장석우" width="150"> |
+| PL | AI Dev | AI Dev | AI Dev |
+| [GitHub](https://github.com/sslim92) | [GitHub](https://github.com/bj730098) | [GitHub](https://github.com/tmdvy9538) | [GitHub](https://github.com/sukwoojang) |
 
 <br>
 
@@ -20,30 +27,11 @@ SFT, RM, PPO 데이터를 활용한 QA Model fine-tuning
 ## 구현 기능
 
 ### 기능 1
-
+SFT 데이터를 활용한 QA 모델 fine-tuning & Beam Search, Random sampling 활용한 답변생성
 ### 기능 2
-
+RM 데이터를 이용한 RewardModel 빌드 & 학습, 생성된 답변에 대한 스코어링
 ### 기능 3
-
-### 기능 4
-
-<br>
-
-## 배운 점 & 아쉬운 점
-
-<p align="justify">
-
-</p>
+RM 스코어 결과에 대한 PPO 알고리즘 적용, 모델이 최선의 정책을 수립할 수 있도록 강화학습 적용
 
 <br>
 
-## 라이센스
-
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
-
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
